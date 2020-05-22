@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d68fe6cd-d5ef-4079-ab92-6138e1dd4958" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cBIVpfaHD1ubukwhCKwqa9Ih4k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="KeyboardAndMouseInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KeyboardAndMouseInput" />
+      <module name="KeyboardAndMouseInput" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KeyboardAndMouseInput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d68fe6cd-d5ef-4079-ab92-6138e1dd4958" name="Default" comment="" />
+      <created>1524332680845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524332680845</updated>
+      <workItem from="1589995586344" duration="2021000" />
+      <workItem from="1590066862864" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589996013758">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1589996013758" />
+    <state x="580" y="138" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1589995917979">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="138" key="#com.intellij.ide.macro.MacrosDialog/0.0.1600.860@0.0.1600.860" timestamp="1589995917979" />
+    <state x="534" y="195" key="EnvironmentVariablesDialog" timestamp="1589995911219">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="534" y="195" key="EnvironmentVariablesDialog/0.0.1600.860@0.0.1600.860" timestamp="1589995911219" />
+    <state x="580" y="188" key="FileChooserDialogImpl" timestamp="1589996614577">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1589996614577" />
+    <state width="1040" height="212" key="GridCell.Tab.0.bottom" timestamp="1589997609040">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1040" height="212" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589997609040" />
+    <state width="1040" height="212" key="GridCell.Tab.0.center" timestamp="1589997609040">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1040" height="212" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589997609040" />
+    <state width="1040" height="212" key="GridCell.Tab.0.left" timestamp="1589997609040">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1040" height="212" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589997609040" />
+    <state width="1040" height="212" key="GridCell.Tab.0.right" timestamp="1589997609040">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1040" height="212" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589997609040" />
+    <state x="560" y="15" key="SettingsEditor" timestamp="1589996774237">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="560" y="15" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1589996774237" />
+    <state x="852" y="216" width="586" height="488" key="find.popup" timestamp="1589996347912">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="852" y="216" width="586" height="488" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1589996347912" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/start$KeyboardAndMouseInput.ic" NAME="KeyboardAndMouseInput Coverage Results" MODIFIED="1589996560224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
